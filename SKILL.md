@@ -1,9 +1,9 @@
 ---
-name: photo-to-carousel-steven
+name: video-to-carousel-steven
 description: Create TikTok and Instagram carousel images from videos, product photos, transcripts, topics or ideas. Use for video-to-carousel, TikTok photo posts and swipeable product storytelling. Supports faithful source-frame layouts and individually generated photo-realistic slides; defaults to the approved TikTok 3:4 style.
 ---
 
-# Photo To Carousel Steven
+# Video To Carousel Steven
 
 ## Default style
 
