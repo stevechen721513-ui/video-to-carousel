@@ -8,13 +8,15 @@ Turn videos, product images, transcripts and ideas into sharp, realistic TikTok 
 
 ## Install
 
-Copy `the repository folder` into your AI tool's skills directory. For Codex use `~/.codex/the repository folder`; for tools using the Claude skill directory use `~/.claude/the repository folder`. Directory conventions depend on the host application.
+Copy `the repository folder` into your AI tool's skills directory. For Codex use `~/.codex/skills/video-to-carousel-steven`; for tools using the Claude skill directory use `~/.claude/skills/video-to-carousel-steven`. Directory conventions depend on the host application.
 
-Repository: https://github.com/stevechen721513-ui/photo-to-carousel-steven\n\n## Use
+Repository: https://github.com/stevechen721513-ui/video-to-carousel
 
-`Use $photo-to-carousel-steven to turn this video into eight TikTok carousel images.`
+## Use
 
-Chinese: `用 $photo-to-carousel-steven，把这个视频做成 8 张 TikTok 轮播图。`
+`Use $video-to-carousel-steven to turn this video into eight TikTok carousel images.`
+
+Chinese: `用 $video-to-carousel-steven，把这个视频做成 8 张 TikTok 轮播图。`
 
 For other AI tools, load SKILL.md, the standard reference and relevant sample images. Each slide must be a separate complete image, never sliced from a collage.
 
