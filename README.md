@@ -1,4 +1,4 @@
-# video To Carousel Steven
+# video To Carousel
 
 Turn videos, product images, transcripts and ideas into sharp, realistic TikTok carousel images. Default style: independent 3:4 slides, full-bleed photography, prominent product, concise English hooks, bold white text and yellow emphasis.
 
